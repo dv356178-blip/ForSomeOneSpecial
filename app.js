@@ -15,7 +15,7 @@ yesBtn.addEventListener("click", () => {
     h.innerText = "Wo To main janta hi tha ❤️";
 
     let a = document.createElement("a");
-    a.href = "Photos/photoPage.html";
+    a.href = "./Photos/photoPage.html";
     a.innerText = "Next Page";
 
     btnDiv.appendChild(a);
