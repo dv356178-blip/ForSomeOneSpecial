@@ -10,7 +10,7 @@ let btnDiv = document.querySelector(".btn-div");
 
 yesBtn.addEventListener("click", () => {
     let bgvid = document.querySelector("#bg-video");
-    bgvid.setAttribute("src", "./335084_medium.mp4");
+    bgvid.setAttribute("src", "335084_medium.mp4");
     let h = document.querySelector("#m-h");
     h.innerText = "Wo To main janta hi tha ❤️";
 
