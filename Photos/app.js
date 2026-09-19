@@ -8,14 +8,14 @@ m.addEventListener("click", ()=>{
     bgmusic.play();
 })
 pic1.addEventListener("click" , ()=>{
-    pic1.src = "./ForSomeOneSpecial/bff-1.jpeg"
+    pic1.src = "../bff-1.jpeg"
 })
 pic2.addEventListener("click" , ()=>{
-    pic2.src = "./ForSomeOneSpecial/bff-2.jpeg"
+    pic2.src = "../bff-2.jpeg"
 })
 pic3.addEventListener("click" , ()=>{
-    pic3.src = "./ForSomeOneSpecial/WhatsApp Image 2026-09-19 at 10.09.30 PM.jpeg"
+    pic3.src = "../WhatsApp Image 2026-09-19 at 10.09.30 PM.jpeg"
 })
 pic4.addEventListener("click" , ()=>{
-    pic4.src = "./ForSomeOneSpecial/bff-4.jpeg"
+    pic4.src = "../bff-4.jpeg"
 })
