@@ -37,7 +37,7 @@ body{
 }
 .m-div{
     height: 230px;
-    width: 1920px;
+    width: auto;
     position: absolute;
 }
 .m-btn2{
